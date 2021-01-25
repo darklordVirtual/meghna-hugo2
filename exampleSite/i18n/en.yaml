@@ -6,7 +6,7 @@
 - id: viewAllPost
   translation: View All Post
 - id: share
-  translation: Share
+  translation: Del
 - id: aboutAuthor
   translation: About author
 - id: authorsPosts
@@ -27,5 +27,3 @@
   translation: Blog
 - id: contact
   translation: Kontakt
-- id: themefisher
-  translation: Themefisher
