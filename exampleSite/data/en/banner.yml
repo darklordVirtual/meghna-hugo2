@@ -8,5 +8,5 @@ banner:
   content: For proaktiv oppfølging og it-teknisk kompetanse du kan stole på, les mer!
   button:
     enable: true
-    label: Explore Us
+    label: Utforsk våre tjenester
     link: "#services"
