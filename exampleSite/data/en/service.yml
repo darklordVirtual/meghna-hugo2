@@ -14,10 +14,12 @@ service:
     icon: ti-blackboard
     content: Få kompetent rådgivning og oppfølging i ditt prosjekt. Sammen sikrer
       vi kvalitetsmessig utførelse og proaktiv oppfølging
-  - name: Graphic Design
+  - name: Trådløse løsninger utendørs og innenørs
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Opprett trådløs infrastruktur til bygninger og installasjoner opp til
+      flere kilometer unna der det er fri sikt. Få mesh nettverk innendørs med hotspot
+      og spesial tilpassede nett. Vi bruker kunstig intelligens for å motvirke frekvens
+      urfordringer der det er stor tetthet av nettverk.
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
