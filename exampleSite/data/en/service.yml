@@ -10,10 +10,10 @@ service:
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-  - name: Media &amp; Advertisement
+  - name: Rådgivning &amp; oppfølging
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Få kompetent rådgivning og oppfølging i ditt prosjekt. Sammen sikrer
+      vi kvalitetsmessig utførelse og proaktiv oppfølging
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
