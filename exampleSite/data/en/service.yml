@@ -3,10 +3,9 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Fiberskjøting
+  - name: Internett leveranser
     icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Få tilbud på lynraskt fiber bredbånd skreddersydd for din bedrift. '
   - name: Nettverk administrasjon
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
