@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
+  label: Blog Poster
 - type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
@@ -41,7 +41,7 @@ sections:
   label: Data
 - type: directory
   path: exampleSite/data
-  label: Homepage
+  label: Forside
   create: all
   match: "**/*"
 - type: directory
