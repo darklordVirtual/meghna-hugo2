@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Konsulenter
   team_member:
   - name: Teknisk konsulent
     image_webp: images/team/team-1.webp
