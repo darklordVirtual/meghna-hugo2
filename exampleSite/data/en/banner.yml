@@ -4,8 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: 'Utforsk våre tjenester '
-  content: For proaktiv oppfølging og it-teknisk kompetanse du kan stole på, les mer!
+  title: 'Luftfiber.no '
+  content: Skreddersydde nettverksløsninger løsninger for bedrifter
   button:
     enable: true
     label: Se hva vi kan tilby
