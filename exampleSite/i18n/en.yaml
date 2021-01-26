@@ -7,8 +7,8 @@
   translation: Vis alle poster
 - id: Del
   translation: Del
-- id: aboutAuthor
-  translation: About author
+- id: Om fortfatter
+  translation: Om forfatter
 - id: authorsPosts
   translation: Author's posts
 - id: all
