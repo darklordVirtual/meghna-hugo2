@@ -1,11 +1,13 @@
-############################# call to action ##############################
+---
 cta:
-  enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: Vi tilbyr nå ferdig konfigurert utstyr for salg
+  content: "Hos oss kan du bestille prekonfigurert utstyr for ulike formål slik som
+    \n- nettverkspakke for elbil ladestasjoner\n- Site-to-site vpn løsninger\n- 4G
+    internett pakke \nog mye annet! "
   button:
-    enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    enable: true
+    label: Start a project with us
+    link: "#contact"
