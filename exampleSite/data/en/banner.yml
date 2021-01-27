@@ -5,9 +5,7 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: 'Luftfiber.no '
-  content: |2-
-                                 Skreddersydde nettverksløsninger
-    Trådløst - Fiber - 5G - SDN - Rutere - Switcher - Ladeanlegg - Support
+  content: 'Skreddersydde løsninger innen nettverk og kameraløsninger for næring  '
   button:
     enable: true
     label: Se hva vi kan tilby
